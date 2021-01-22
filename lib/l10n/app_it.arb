@@ -1,0 +1,9 @@
+{
+  "italy": "Italia",
+  "doses_delivered": "Dosi consegnate",
+  "doses_administered": "Dosi somministrate",
+  "administration_percentage": "Percentuale somministrazione",
+  "last_update": "Ultimo aggiornamento",
+  "first_dose": "Prima dose",
+  "second_dose": "Seconda dose"
+}

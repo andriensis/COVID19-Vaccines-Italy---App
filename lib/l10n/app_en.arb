@@ -1,0 +1,18 @@
+{
+  "italy": "Italy",
+  "@italy": {
+    "description": "Italy country"
+  },
+  "doses_delivered": "Delivered doses",
+  "@doses_delivered": {},
+  "doses_administered": "Administered doses",
+  "@doses_administered": {},
+  "administration_percentage": "Administration percentage",
+  "@administration_percentage": {},
+  "last_update": "Last update",
+  "@last_update": {},
+  "first_dose": "First dose",
+  "@first_dose": {},
+  "second_dose": "Second dose",
+  "@second_dose": {}
+}
